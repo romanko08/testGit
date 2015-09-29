@@ -1,6 +1,6 @@
 function feature_1() {
 	// do something
-	return 0;
+	return 1;
 }
 
 function feature_2() {
