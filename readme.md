@@ -8,3 +8,5 @@ Das Handbuch zum meiner Anwendung
  * Unterpunkt 3
 
 ## Punkt 2
+ * Unterpunkt 1
+ * Unterpunkt 2
