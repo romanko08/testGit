@@ -1,3 +1,3 @@
-Das Handbuch
+Das Handbuch zum meiner Anwendung
 
-Meine super Idee!!!
+Mit meinen super Ideen!!!
