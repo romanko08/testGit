@@ -1,3 +1,3 @@
 Das Handbuch
 
-Meine super Idee!!!
+Meine super Idee!
