@@ -6,3 +6,8 @@ function feature_1() {
 function feature_2() {
 	// do something else
 }
+
+function feature_3(value) {
+	var a = 3;
+	return value * a;
+}
